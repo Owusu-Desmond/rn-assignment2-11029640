@@ -1,6 +1,11 @@
-# My React Native App
+# rn-assignment2-11029640
 
 This is a simple React Native application that displays a personalized message.
+
+## App preview
+
+![WhatsApp Image 2024-05-27 at 3 43 13 PM](https://github.com/Owusu-Desmond/rn-assignment2-11029640/assets/92303891/e15d8353-73e7-41d5-9a2c-0e2426db855f)
+
 
 ## Features
 
